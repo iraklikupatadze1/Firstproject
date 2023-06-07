@@ -1,0 +1,32 @@
+div {
+    position: absolute;
+    width: 438px;
+    height: 577px;
+    left: 35%;
+    top: 25%;
+    background: #F5F5F5;
+    border: 1px;
+    border-color: #202020;
+    border-radius: 10px;
+    
+}
+
+body {
+    background-color: #1E1E1E;
+}
+
+.button1 {
+    background-color: #E3A647;
+    color: #ffff;
+    left: 30%;
+    top: 30%;
+    border-radius: 100px;
+    border: 3px;
+    border-color: #000000;
+}
+
+img {
+    width: 166px;
+    height: 166px;
+    border-radius: 20px;
+}
