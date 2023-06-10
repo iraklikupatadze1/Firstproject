@@ -1,0 +1,34 @@
+.box1 {
+    position: absolute;
+    width: 320px;
+    height: 497px;
+    left: 35%;
+    top: 25%;
+    background: #F5F5F5;
+    border: 1px;
+    border-color: #202020;
+    border-radius: 20px;
+    
+}
+.box2 {
+    position: absolute;
+    width: 288px;
+    height: 288px;
+    left: 5%;
+    top: 5%;
+    background: #1F314F;
+    border: 1px;
+    border-radius: 10px;
+
+}
+
+body {
+    background-color: #1F314F;
+}
+
+img {
+    width: 166px;
+    height: 166px;
+   
+}
+ 
